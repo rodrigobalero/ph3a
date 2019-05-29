@@ -6,7 +6,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Ph3a\\": "private-vendor/"
+            "Ph3a\\": "src/"
         }
     }
 }
