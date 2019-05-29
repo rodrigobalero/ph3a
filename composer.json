@@ -1,4 +1,9 @@
 {
+	"name": "rodrigobalero/ph3a",
+    "description": "A API wrapper for Ph3a api",
+    "require": {
+        "php": "^7.2"
+    },
     "autoload": {
         "psr-4": {
             "Ph3a\\": "private-vendor/"
